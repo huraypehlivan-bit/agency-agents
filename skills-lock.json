@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "skills": {
+    "3dsmax-rendering": {
+      "source": "tusosos/manus-knowledge-base",
+      "commit": "c13611f06fef7119453095349a001a6ad2f82b50",
+      "sourceType": "github",
+      "skillPath": "skills/3dsmax-rendering/SKILL.md",
+      "computedHash": "2f64572b00c75f55a21a44244e445a178d49d61612fedd5ad3ed345a68f2e6a1"
+    }
+  }
+}
